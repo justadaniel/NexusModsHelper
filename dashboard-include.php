@@ -69,13 +69,6 @@
                         </li>
                     </ul>
                 </div>
-                <div class="list-block inset">
-                    <ul>
-                        <li>
-                            <a href="#" class="item-link list-button accent-color check-for-updates">Check for Updates</a>
-                        </li>
-                    </ul>
-                </div>
             </div>
         </div>
     </div>
